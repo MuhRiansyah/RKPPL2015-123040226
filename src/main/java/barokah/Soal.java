@@ -9,7 +9,7 @@ package barokah;
  * @author SB 604-16
  */
 public class Soal {
-    //Melakukan penghitungan pangkat bilangan dengan memasukan paramater terlebih dahulu
+    //Melakukan penghitungan pangkat bilangan dengan memasukan paramater bilangan dan pangkat terlebih dahulu
     public int pangkat(int bil, int pangkat) {
         int hasil = 0;
         int n = 1;
